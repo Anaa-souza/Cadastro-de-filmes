@@ -55,10 +55,12 @@ Perfeito para quem está aprendendo sobre **conexão com banco de dados**, **CRU
 ## 🎨 Interface do Projeto
 
 ### 🧾 Tela de Cadastro e Listagem
-![Cadastro de Filmes](./imagens/atividadebd.png)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/65452d8e-0770-4f50-9130-1ab99db26047" />
+
 
 ### 💻 Visualização no Banco de Dados (MySQL)
-![Banco de Dados](./imagens/atividadebd2.png) 
+<img width="331" height="103" alt="image" src="https://github.com/user-attachments/assets/59bc6ba8-8195-47f0-bcdb-1cc4f3c4e0fb" />
+ 
 ---
 
 ## 🧑‍💻 Autor
