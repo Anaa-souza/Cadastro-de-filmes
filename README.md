@@ -55,11 +55,10 @@ Perfeito para quem está aprendendo sobre **conexão com banco de dados**, **CRU
 ## 🎨 Interface do Projeto
 
 ### 🧾 Tela de Cadastro e Listagem
-![Cadastro de Filmes](./atividadebd.png)
+![Cadastro de Filmes](./imagens/atividadebd.png)
 
 ### 💻 Visualização no Banco de Dados (MySQL)
-![Banco de Dados](./atividadebd2.png)
-
+![Banco de Dados](./imagens/atividadebd2.png) 
 ---
 
 ## 🧑‍💻 Autor
