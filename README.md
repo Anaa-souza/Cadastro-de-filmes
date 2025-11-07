@@ -27,7 +27,6 @@ Perfeito para quem está aprendendo sobre **conexão com banco de dados**, **CRU
 | **MySQL** | Armazenamento das informações dos filmes |
 | **HTML5** | Estrutura da página |
 | **CSS3** | Estilização do layout |
-| **XAMPP / WAMP** | Servidor local para execução do projeto |
 
 ---
 
@@ -38,9 +37,7 @@ Perfeito para quem está aprendendo sobre **conexão com banco de dados**, **CRU
 ├── index.php          # Página principal com o formulário e a tabela
 ├── conexao.php        # Arquivo de conexão com o banco de dados
 ├── style.css          # Estilo visual do projeto
-└── imagens/
-    ├── atividadebd.png
-    └── atividadebd2.png
+
 ```
 
 
@@ -63,7 +60,7 @@ Perfeito para quem está aprendendo sobre **conexão com banco de dados**, **CRU
  
 ---
 
-## 🧑‍💻 Autor
+## 👩🏽‍💻 Autora
 
 👋 Desenvolvido por **[Ana Carolina]**  
 💬 Sinta-se à vontade para contribuir ou sugerir melhorias!  
